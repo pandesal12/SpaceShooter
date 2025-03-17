@@ -1,0 +1,28 @@
+﻿  Logic.cpp
+C:\School\Programs\SpaceShooter\Logic.cpp(28,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\School\Programs\SpaceShooter\Logic.cpp(29,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  PrototypeTest.cpp
+C:\School\Programs\SpaceShooter\PrototypeTest.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Renderer.cpp
+C:\School\Programs\SpaceShooter\Renderer.cpp(39,46): error C2036: '_Ty *': unknown size
+C:\School\Programs\SpaceShooter\Renderer.cpp(39,46): error C2036:         with
+C:\School\Programs\SpaceShooter\Renderer.cpp(39,46): error C2036:         [
+C:\School\Programs\SpaceShooter\Renderer.cpp(39,46): error C2036:             _Ty=logic::ScreenObject
+C:\School\Programs\SpaceShooter\Renderer.cpp(39,46): error C2036:         ]
+C:\School\Programs\SpaceShooter\Renderer.cpp(40,33): error C2027: use of undefined type 'logic::ScreenObject'
+      C:\School\Programs\SpaceShooter\Header.h(9,9):
+      see declaration of 'logic::ScreenObject'
+  
+C:\School\Programs\SpaceShooter\Renderer.cpp(41,28): error C2027: use of undefined type 'logic::ScreenObject'
+      C:\School\Programs\SpaceShooter\Header.h(9,9):
+      see declaration of 'logic::ScreenObject'
+  
+C:\School\Programs\SpaceShooter\Renderer.cpp(43,39): error C2027: use of undefined type 'logic::ScreenObject'
+      C:\School\Programs\SpaceShooter\Header.h(9,9):
+      see declaration of 'logic::ScreenObject'
+  
+C:\School\Programs\SpaceShooter\Renderer.cpp(44,29): error C2027: use of undefined type 'logic::ScreenObject'
+      C:\School\Programs\SpaceShooter\Header.h(9,9):
+      see declaration of 'logic::ScreenObject'
+  
+  Generating Code...

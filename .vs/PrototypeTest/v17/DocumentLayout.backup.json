@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\School\\Programs\\SpaceShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F699041-0B0A-4BAE-8C6F-41B04F81C917}|PrototypeTest.vcxproj|C:\\School\\Programs\\SpaceShooter\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F699041-0B0A-4BAE-8C6F-41B04F81C917}|PrototypeTest.vcxproj|solutionrelative:Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F699041-0B0A-4BAE-8C6F-41B04F81C917}|PrototypeTest.vcxproj|C:\\School\\Programs\\SpaceShooter\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F699041-0B0A-4BAE-8C6F-41B04F81C917}|PrototypeTest.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F699041-0B0A-4BAE-8C6F-41B04F81C917}|PrototypeTest.vcxproj|C:\\School\\Programs\\SpaceShooter\\Logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F699041-0B0A-4BAE-8C6F-41B04F81C917}|PrototypeTest.vcxproj|solutionrelative:Logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F699041-0B0A-4BAE-8C6F-41B04F81C917}|PrototypeTest.vcxproj|C:\\School\\Programs\\SpaceShooter\\PrototypeTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F699041-0B0A-4BAE-8C6F-41B04F81C917}|PrototypeTest.vcxproj|solutionrelative:PrototypeTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "C:\\School\\Programs\\SpaceShooter\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Renderer.cpp",
+              "ToolTip": "C:\\School\\Programs\\SpaceShooter\\Renderer.cpp",
+              "RelativeToolTip": "Renderer.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T09:28:08.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logic.cpp",
+              "DocumentMoniker": "C:\\School\\Programs\\SpaceShooter\\Logic.cpp",
+              "RelativeDocumentMoniker": "Logic.cpp",
+              "ToolTip": "C:\\School\\Programs\\SpaceShooter\\Logic.cpp",
+              "RelativeToolTip": "Logic.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T09:16:15.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\School\\Programs\\SpaceShooter\\Header.h",
+              "RelativeDocumentMoniker": "Header.h",
+              "ToolTip": "C:\\School\\Programs\\SpaceShooter\\Header.h",
+              "RelativeToolTip": "Header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T09:14:45.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrototypeTest.cpp",
+              "DocumentMoniker": "C:\\School\\Programs\\SpaceShooter\\PrototypeTest.cpp",
+              "RelativeDocumentMoniker": "PrototypeTest.cpp",
+              "ToolTip": "C:\\School\\Programs\\SpaceShooter\\PrototypeTest.cpp",
+              "RelativeToolTip": "PrototypeTest.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T09:06:57.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
