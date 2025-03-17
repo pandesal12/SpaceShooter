@@ -1,0 +1,5 @@
+﻿  PrototypeTest.cpp
+D:\VS2022\PrototypeTest\PrototypeTest.cpp(23,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\VS2022\PrototypeTest\PrototypeTest.cpp(24,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\VS2022\PrototypeTest\PrototypeTest.cpp(102,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PrototypeTest.vcxproj -> D:\VS2022\PrototypeTest\x64\Debug\PrototypeTest.exe
